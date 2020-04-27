@@ -7,6 +7,10 @@ body{
     color: #999999;
 }
 
+h3 {
+    margin: 0 0 1em 0;
+}
+
 
 /* SET MAX WIDTH 960PX */
 #wrapper {
@@ -17,6 +21,7 @@ body{
 
 a {
     text-decoration: none;
+    color: #C6C6C6;
 }
 
 ul {
@@ -125,4 +130,16 @@ footer {
     padding-top: 50px;
     color: #bdc3c7;
     clear: both;
+}
+
+/* * CONTACT OR PAG CONTACT */
+.contact-info{
+    list-style: none;
+    font-size: 0.9em;
+    margin: 0;
+    padding: 0;
+}
+
+.contact-info li{
+    margin-bottom: 10px;
 }
